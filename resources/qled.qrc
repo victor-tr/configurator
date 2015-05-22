@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qled/circle_green.svg</file>
+        <file>qled/circle_grey.svg</file>
+        <file>qled/circle_orange.svg</file>
+        <file>qled/circle_purple.svg</file>
+        <file>qled/circle_red.svg</file>
+        <file>qled/circle_yellow.svg</file>
+        <file>qled/circle_blue.svg</file>
+        <file>qled/square_blue.svg</file>
+        <file>qled/square_green.svg</file>
+        <file>qled/square_grey.svg</file>
+        <file>qled/square_orange.svg</file>
+        <file>qled/square_purple.svg</file>
+        <file>qled/square_red.svg</file>
+        <file>qled/square_yellow.svg</file>
+        <file>qled/triang_blue.svg</file>
+        <file>qled/triang_green.svg</file>
+        <file>qled/triang_grey.svg</file>
+        <file>qled/triang_orange.svg</file>
+        <file>qled/triang_purple.svg</file>
+        <file>qled/triang_red.svg</file>
+        <file>qled/triang_yellow.svg</file>
+        <file>qled/round_blue.svg</file>
+        <file>qled/round_green.svg</file>
+        <file>qled/round_grey.svg</file>
+        <file>qled/round_purple.svg</file>
+        <file>qled/round_red.svg</file>
+        <file>qled/round_yellow.svg</file>
+        <file>qled/qled.png</file>
+        <file>qled/round_orange.svg</file>
+    </qresource>
+</RCC>

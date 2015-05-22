@@ -1,0 +1,23 @@
+[Desktop Entry]
+Comment[en_US]=
+Comment=
+Encoding=UTF-8
+Exec=$HOME/Dvlp/armor_configurator/armor_configurator
+GenericName[en_US]=
+GenericName=
+Icon=$HOME/Dvlp/armor_configurator/appicon.png
+MimeType=
+Name=armor configurator
+Path=
+StartupNotify=true
+Terminal=false
+TerminalOptions=
+Type=Application
+Version=1.0
+X-DBUS-ServiceName=
+X-DBUS-StartupType=none
+X-HildonDesk-ShowInToolbar=true
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+X-Osso-Type=application/x-executable
+X-Window-Icon=appicon.png

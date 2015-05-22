@@ -1,0 +1,42 @@
+/*! \mainpage Simple ARMOR configurator
+ *
+ * \section intro_sec Introduction
+ *
+ * <b>Developer</b>:
+ * - Roman Gladyshev &lt;remicollab@gmail.com&gt;
+ *
+ * \section requirements Requirements
+ * The application <em>"Simple ARMOR configurator"</em> requires the following external stuff:
+ * - Qt5 framework
+ * - QxOrm lib
+ * - Boost lib
+ * - QSerialPort lib
+ *
+ * \section changelog Changelog
+ *
+ * - November 2014: initial release
+ *
+ * \section About_sec About this documentation
+ *
+ * \subsection step1 Location
+ *  
+ * This documentation can be found on file://../doc/html/index.html
+ * 
+ * \subsection step2 Updating
+ * 
+ * <b>Requirements</b>
+ * - Installed <b><i>doxygen</i></b> package (from http://www.stack.nl/~dimitri/doxygen)
+ * - Optional: Installed <b><i>graphviz</i></b> tool for diagrams (from http://www.graphviz.org) 
+ *   <br><sup><b>Note:</b> you have add the <b>bin</b> path of the installation to the 
+ *   <tt>PATH</tt> environment variable</sup>
+ *
+ * <b>Generating</b>
+ *
+ * - go to source location 
+ * - open a cmd window
+ * - type <tt>doxygen Doxyfile </tt>
+ *
+ * <b>Configuration files</b>
+ * - <tt> Doxyfile </tt> (text file; general configuration of input files and output)
+ * - <tt> docmainpage.txt</tt> (text file for processing this Main Page)
+ */

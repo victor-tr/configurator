@@ -1,0 +1,8 @@
+_laptop_linux
+*.user*
+Makefile*
+push_to_remote*
+sqlitestudio*
+database_logo.png
+build/*
+_.git/*

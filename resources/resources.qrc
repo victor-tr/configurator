@@ -1,0 +1,42 @@
+<RCC>
+    <qresource prefix="/">
+        <file>appicon.ico</file>
+        <file>appicon.png</file>
+        <file>armor.db</file>
+        <file>armor_skeleton.db</file>
+        <file>i18n/qt_ru.qm</file>
+        <file>i18n/qtbase_ru.qm</file>
+        <file>i18n/qtconfig_ru.qm</file>
+        <file>i18n/qtxmlpatterns_ru.qm</file>
+        <file>i18n/qtquick1_ru.qm</file>
+        <file>i18n/qtscript_ru.qm</file>
+        <file>i18n/assistant_ru.qm</file>
+        <file>i18n/designer_ru.qm</file>
+        <file>i18n/linguist_ru.qm</file>
+        <file>i18n/qmlviewer_ru.qm</file>
+        <file>i18n/qt_help_ru.qm</file>
+        <file>i18n/qtdeclarative_ru.qm</file>
+        <file>i18n/qtmultimedia_ru.qm</file>
+    </qresource>
+    <qresource prefix="/icons">
+        <file>icons/connect.png</file>
+        <file>icons/disconnect.png</file>
+        <file>icons/download_48x48.png</file>
+        <file>icons/exit.png</file>
+        <file>icons/Help_32x32.png</file>
+        <file>icons/load.png</file>
+        <file>icons/save.png</file>
+        <file>icons/upload_48x48.png</file>
+        <file>icons/import_9486.png</file>
+        <file>icons/export_4886.png</file>
+        <file>icons/clear_6146.png</file>
+        <file>icons/configure_4286.png</file>
+        <file>icons/new.png</file>
+        <file>icons/open_7772.png</file>
+        <file>icons/discard.png</file>
+        <file>icons/battery.png</file>
+        <file>icons/console.png</file>
+        <file>icons/green_check.png</file>
+        <file>icons/firmware-update-icon.png</file>
+    </qresource>
+</RCC>
